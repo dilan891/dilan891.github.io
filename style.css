@@ -1,0 +1,17 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.contenido{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+.info{
+    background-color: aquamarine;
+    margin: 20px 400px 0 400px;
+    border-radius: 5px;
+    height: 600px;
+}
